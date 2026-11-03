@@ -1,8 +1,9 @@
-sed: -e expression #1, char 135: unknown command: `@'
 // ==UserScript==
 // @name         Akinator Terminal
 // @namespace    akinator-terminal
 // @version      1.0.0
+// @updateURL    https://raw.githubusercontent.com/jonathan-geva/akinator-minimal/main/akinator-terminal.user.js
+// @downloadURL  https://raw.githubusercontent.com/jonathan-geva/akinator-minimal/main/akinator-terminal.user.js
 // @description  Terminal styling and keyboard navigation for the original Akinator site.
 // @match        https://akinator.com/*
 // @match        https://*.akinator.com/*
